@@ -1,0 +1,14 @@
+{
+  "name": "carolyn-site",
+  "version": "1.0.0",
+  "description": "portfolio site for carolyn",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Calvin LeVally and colorlib.com",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
