@@ -440,3 +440,9 @@
 		margin-right: 17px;
 	}
 }
+
+@media (min-width:1500px){
+	.timeline-media {
+		width: 900px;
+	}
+}

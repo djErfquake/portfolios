@@ -2488,7 +2488,7 @@ h6 {
   margin-bottom: 18px;
   text-transform: uppercase; }
 .welcome_text p {
-  max-width: 495px;
+  max-width: 775px;
   font-family: "Roboto", sans-serif;
   margin-bottom: 40px; }
 
@@ -3012,4 +3012,8 @@ h6 {
   color: #766dff;
   width: 20px;
   padding-left: 2px;
+}
+
+html {
+  scroll-behavior: smooth;
 }
